@@ -1,4 +1,4 @@
-export const VIDSRC_BASE_URL = 'https://vidsrc-embed.ru';
+export const VIDSRC_BASE_URL = 'https://vidsrc-me.ru';
 
 export async function fetchLatest(type: 'movies' | 'tvshows' | 'episodes', page: number = 1, fetcher = fetch) {
     try {
@@ -51,8 +51,8 @@ export function getEmbedUrl(
         return `${base}/tv/${id}/${season}/${episode}${isDub ? '?audio=en' : ''}`;
     }
 
-    // Default: vidsrc.ru (vidsrc-embed.ru)
-    const base = 'https://vidsrc-embed.ru/embed';
+    // Default: vidsrc.ru (vidsrc-me.ru)
+    const base = 'https://vidsrc-me.ru/embed';
     if (type === 'movie') {
         return `${base}/movie/${id}`;
     }
