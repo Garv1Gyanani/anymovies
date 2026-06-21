@@ -1,0 +1,103 @@
+﻿[
+    {
+        "adult":  false,
+        "backdrop_path":  "/9uakM2woks0JV8HKIc4oatIVS88.jpg",
+        "id":  1315303,
+        "title":  "Primate",
+        "original_title":  "Primate",
+        "overview":  "Lucy, a college student, along with her friends, spend their vacation at her family\u0027s home in Hawaii, which includes her pet chimpanzee, Ben. However, when Ben contracts rabies after being bitten by a rabid animal, the group must fight for their lives in order to avoid the now-violent chimp.",
+        "poster_path":  "/57cyAMc9c8iveudogTRuDOQjujn.jpg",
+        "media_type":  "movie",
+        "original_language":  "en",
+        "genre_ids":  [
+                          27,
+                          53
+                      ],
+        "popularity":  296.3058,
+        "release_date":  "2026-01-01",
+        "video":  false,
+        "vote_average":  6.646,
+        "vote_count":  302
+    },
+    {
+        "adult":  false,
+        "backdrop_path":  "/bHtlDAORBQiYKCJMwDP9WBgcQHM.jpg",
+        "id":  1317288,
+        "title":  "Marty Supreme",
+        "original_title":  "Marty Supreme",
+        "overview":  "Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness.",
+        "poster_path":  "/xGszJUMKgmdzB16mn6xqhOWursY.jpg",
+        "media_type":  "movie",
+        "original_language":  "en",
+        "genre_ids":  [
+                          18
+                      ],
+        "popularity":  162.2954,
+        "release_date":  "2025-12-19",
+        "video":  false,
+        "vote_average":  7.595,
+        "vote_count":  744
+    },
+    {
+        "adult":  false,
+        "backdrop_path":  "/73BClq9FOcrWrutnpiqhCNEWEwJ.jpg",
+        "id":  858024,
+        "title":  "Hamnet",
+        "original_title":  "Hamnet",
+        "overview":  "The powerful story of love and loss that inspired the creation of Shakespeare\u0027s timeless masterpiece, Hamlet.",
+        "poster_path":  "/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
+        "media_type":  "movie",
+        "original_language":  "en",
+        "genre_ids":  [
+                          18,
+                          10749,
+                          36
+                      ],
+        "popularity":  89.7366,
+        "release_date":  "2025-11-26",
+        "video":  false,
+        "vote_average":  7.8,
+        "vote_count":  554
+    },
+    {
+        "adult":  false,
+        "backdrop_path":  "/rcL91tOOOe3EXe2yifwh4jprYp8.jpg",
+        "id":  1316092,
+        "title":  "“Wuthering Heights”",
+        "original_title":  "“Wuthering Heights”",
+        "overview":  "Tragedy strikes when Heathcliff falls in love with Catherine Earnshaw, a woman from a wealthy family in 18th-century England.",
+        "poster_path":  "/ywRO5dyE8RyyXJd6cvd69jLZeic.jpg",
+        "media_type":  "movie",
+        "original_language":  "en",
+        "genre_ids":  [
+                          10749,
+                          18
+                      ],
+        "popularity":  179.0089,
+        "release_date":  "2026-02-11",
+        "video":  false,
+        "vote_average":  6.8,
+        "vote_count":  170
+    },
+    {
+        "adult":  false,
+        "backdrop_path":  "/tNONILTe9OJz574KZWaLze4v6RC.jpg",
+        "id":  1368166,
+        "title":  "The Housemaid",
+        "original_title":  "The Housemaid",
+        "overview":  "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream job quickly unravels into something far more dangerous—a sexy, seductive game of secrets, scandal, and power.",
+        "poster_path":  "/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
+        "media_type":  "movie",
+        "original_language":  "en",
+        "genre_ids":  [
+                          18,
+                          9648,
+                          53
+                      ],
+        "popularity":  221.2291,
+        "release_date":  "2025-12-18",
+        "video":  false,
+        "vote_average":  7.208,
+        "vote_count":  1120
+    }
+]
